@@ -12,4 +12,4 @@ link: https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business
 1. ETL script
 2. Data transformation to new data model
 3. Business data analysis
-4. Dashboard
+4. Dashboard: https://lookerstudio.google.com/reporting/1c6f2acf-afb3-4574-b130-eb1fa99b29b5
