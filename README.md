@@ -5,7 +5,7 @@
 This project aim to be a comprensive data analysis framework. Starting with getting raw data from sources then conduct the ETL job to clean the data and transform the data into self-design data model. The outputs would be generated data report to answer business questions and dashboards showing overview of the business metrics, break down the metrics to the units such as by-product or
 
 ### About the selected data source
-The data is from Kaggle: "E-commerce Business Transaction"
+The data is from Kaggle: "E-commerce Business Transaction" \
 link: https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business
 
 ### What the project do
