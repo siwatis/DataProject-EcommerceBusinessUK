@@ -7,7 +7,7 @@ This project is managed to be a comprensive data analysis framework. Starting wi
 ### About the selected data source
 The data is from Kaggle: "E-commerce Business Transaction" \
 link: https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business \
-The data is in trasaction level contains of purchased orders and cancelled orders
+The data is in trasaction level (around 500k transacions) contains of purchased orders and cancelled orders
 
 ### What the project do
 1. Data transformation to new data model [notebook.ipyhb]
